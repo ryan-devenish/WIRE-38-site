@@ -1,5 +1,17 @@
 [
   {
+    "id": "background-prompt-detail",
+    "datetime": "2026-05-22T09:15:00-07:00",
+    "title": "Visual Continuity",
+    "message": "Background prompts were revised toward a seated station-operator point of view, with desk detail, station marks, and controlled broadcast-room texture."
+  },
+  {
+    "id": "episode-007-indexed",
+    "datetime": "2026-05-22T07:15:00-07:00",
+    "title": "Morning Transmission",
+    "message": "Episode 007 entered the public archive after the morning broadcast cycle."
+  },
+  {
     "id": "site-youtube-archive",
     "datetime": "2026-05-22T00:22:00-07:00",
     "title": "Archive Synchronization",
@@ -16,5 +28,29 @@
     "datetime": "2026-05-21T20:10:00-07:00",
     "title": "Transmission Archive",
     "message": "The first six WIRE-38 transmissions were indexed for public review."
+  },
+  {
+    "id": "youtube-channel-established",
+    "datetime": "2026-05-18T23:10:00-07:00",
+    "title": "Channel Established",
+    "message": "The WIRE-38 YouTube channel was opened as the first public receiving point for the service."
+  },
+  {
+    "id": "first-build",
+    "datetime": "2026-05-18T21:30:00-07:00",
+    "title": "Initial Construction",
+    "message": "Work began on the first WIRE-38 production system after the longwave broadcast concept took form."
+  },
+  {
+    "id": "founding-vision",
+    "datetime": "2026-05-17T22:00:00-07:00",
+    "title": "Origin Note",
+    "message": "The idea of an always-on, twenty-four-hour public bulletin signal was first recorded."
+  },
+  {
+    "id": "first-broadcast",
+    "datetime": "2026-05-19T06:25:00-07:00",
+    "title": "First Broadcast",
+    "message": "The first WIRE-38 transmission was recorded and published to YouTube shortly after."
   }
 ]
