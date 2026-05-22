@@ -3,7 +3,7 @@
     "id": "background-prompt-detail",
     "datetime": "2026-05-22T09:15:00-07:00",
     "title": "Visual Continuity",
-    "message": "Background prompts were revised toward a seated station-operator point of view, with desk detail, station marks, and controlled broadcast-room texture."
+    "message": "The station image was brought into closer alignment with the WIRE-38 house style."
   },
   {
     "id": "episode-007-indexed",
@@ -15,13 +15,13 @@
     "id": "site-youtube-archive",
     "datetime": "2026-05-22T00:22:00-07:00",
     "title": "Archive Synchronization",
-    "message": "Public video records now link automatically from the WIRE-38 channel feed."
+    "message": "The public archive began carrying direct references to the broadcast record."
   },
   {
     "id": "site-public-launch",
     "datetime": "2026-05-21T23:40:00-07:00",
     "title": "Public Reception",
-    "message": "The Longwave Service website entered public service at wire-38.com."
+    "message": "A public reception point was established for the Longwave Service."
   },
   {
     "id": "site-archive-index",
@@ -33,19 +33,19 @@
     "id": "youtube-channel-established",
     "datetime": "2026-05-18T23:10:00-07:00",
     "title": "Channel Established",
-    "message": "The WIRE-38 YouTube channel was opened as the first public receiving point for the service."
+    "message": "An external receiving point was opened for early transmission records."
   },
   {
     "id": "first-build",
     "datetime": "2026-05-18T21:30:00-07:00",
     "title": "Initial Construction",
-    "message": "Work began on the first WIRE-38 production system after the longwave broadcast concept took form."
+    "message": "Initial station apparatus was assembled after the longwave broadcast concept took form."
   },
   {
     "id": "founding-vision",
     "datetime": "2026-05-17T22:00:00-07:00",
     "title": "Origin Note",
-    "message": "The idea of an always-on, twenty-four-hour public bulletin signal was first recorded: an unattended automated radio station running from an old Mac mini, with no human announcer in the loop."
+    "message": "The idea of an unattended, twenty-four-hour public bulletin signal was first recorded."
   },
   {
     "id": "first-broadcast",
