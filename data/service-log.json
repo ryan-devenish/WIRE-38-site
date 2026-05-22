@@ -1,0 +1,20 @@
+[
+  {
+    "id": "site-youtube-archive",
+    "datetime": "2026-05-22T00:22:00-07:00",
+    "title": "Archive Synchronization",
+    "message": "Public video records now link automatically from the WIRE-38 channel feed."
+  },
+  {
+    "id": "site-public-launch",
+    "datetime": "2026-05-21T23:40:00-07:00",
+    "title": "Public Reception",
+    "message": "The Longwave Service website entered public service at wire-38.com."
+  },
+  {
+    "id": "site-archive-index",
+    "datetime": "2026-05-21T20:10:00-07:00",
+    "title": "Transmission Archive",
+    "message": "The first six WIRE-38 transmissions were indexed for public review."
+  }
+]
