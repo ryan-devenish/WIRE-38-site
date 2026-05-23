@@ -1,5 +1,22 @@
 [
   {
+    "id": "009",
+    "episode": "009",
+    "title": "WIRE-38 Transmission - Episode 009",
+    "edition": "Public Bulletin Service",
+    "datetime": "2026-05-23T07:45:42-07:00",
+    "duration": "",
+    "topStory": "Transmission record pending archival summary",
+    "description": "The Longwave Service presents a bulletin of public affairs and world reports.",
+    "youtubeUrl": "https://www.youtube.com/watch?v=OGk9iBHGvVk",
+    "youtubeEmbedUrl": "https://www.youtube.com/embed/OGk9iBHGvVk",
+    "transcriptPath": "",
+    "transcriptUrl": "",
+    "thumbnailUrl": "",
+    "sourceTranscriptFile": "",
+    "createdAt": "2026-05-23T07:45:42-07:00"
+  },
+  {
     "id": "008",
     "episode": "008",
     "title": "WIRE-38 Episode 008 — Evening Transmission | May 22, 2026 | 4:46 PM PST",
