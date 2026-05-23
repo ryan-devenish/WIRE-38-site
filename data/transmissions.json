@@ -1,5 +1,22 @@
 [
   {
+    "id": "008",
+    "episode": "008",
+    "title": "WIRE-38 Transmission - Episode 008",
+    "edition": "Public Bulletin Service",
+    "datetime": "2026-05-22T17:04:56-07:00",
+    "duration": "",
+    "topStory": "Signal report pending archival classification",
+    "description": "The Longwave Service presents a bulletin of public affairs and world reports.",
+    "youtubeUrl": "https://www.youtube.com/watch?v=qLXgoI5Z-wI",
+    "youtubeEmbedUrl": "https://www.youtube.com/embed/qLXgoI5Z-wI",
+    "transcriptPath": "",
+    "transcriptUrl": "",
+    "thumbnailUrl": "",
+    "sourceTranscriptFile": "",
+    "createdAt": "2026-05-22T17:04:56-07:00"
+  },
+  {
     "id": "007",
     "episode": "007",
     "title": "WIRE-38 Transmission - Episode 007",
