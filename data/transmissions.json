@@ -2,7 +2,7 @@
   {
     "id": "016",
     "episode": "016",
-    "title": "WIRE-38 Episode 016 — Evening Transmission | May 26, 2026 | 5:41 PM PST",
+    "title": "Episode 016 — Evening Transmission | May 26, 2026 | 5:41 PM PST",
     "edition": "Evening Edition",
     "datetime": "2026-05-26T17:41:16-07:00",
     "duration": "",
@@ -19,7 +19,7 @@
   {
     "id": "015",
     "episode": "015",
-    "title": "WIRE-38 Episode 015 — Morning Transmission | May 26, 2026 | 7:36 AM PST",
+    "title": "Episode 015 — Morning Transmission | May 26, 2026 | 7:36 AM PST",
     "edition": "Morning Edition",
     "datetime": "2026-05-26T07:36:17-07:00",
     "duration": "",
@@ -36,7 +36,7 @@
   {
     "id": "014",
     "episode": "014",
-    "title": "WIRE-38 Episode 014 — Evening Transmission | May 25, 2026 | 5:55 PM PST",
+    "title": "Episode 014 — Evening Transmission | May 25, 2026 | 5:55 PM PST",
     "edition": "Evening Edition",
     "datetime": "2026-05-25T17:55:00-07:00",
     "duration": "07:00",
@@ -53,7 +53,7 @@
   {
     "id": "013",
     "episode": "013",
-    "title": "WIRE-38 Episode 013 — Morning Transmission | May 25, 2026 | 7:14 AM PST",
+    "title": "Episode 013 — Morning Transmission | May 25, 2026 | 7:14 AM PST",
     "edition": "Morning Edition",
     "datetime": "2026-05-25T07:14:00-07:00",
     "duration": "06:24",
@@ -70,7 +70,7 @@
   {
     "id": "012",
     "episode": "012",
-    "title": "WIRE-38 Episode 012 — Openwave | May 24, 2026 | 5:55 PM PST",
+    "title": "Episode 012 — Openwave | May 24, 2026 | 5:55 PM PST",
     "edition": "Openwave",
     "datetime": "2026-05-24T17:55:00-07:00",
     "duration": "06:58",
@@ -87,7 +87,7 @@
   {
     "id": "011",
     "episode": "011",
-    "title": "WIRE-38 Episode 011 — Openwave | May 24, 2026 | 8:37 AM PST",
+    "title": "Episode 011 — Openwave | May 24, 2026 | 8:37 AM PST",
     "edition": "Openwave",
     "datetime": "2026-05-24T08:37:00-07:00",
     "duration": "05:58",
@@ -104,7 +104,7 @@
   {
     "id": "010",
     "episode": "010",
-    "title": "WIRE-38 Episode 010 — Openwave | May 23, 2026 | 6:09 PM PST",
+    "title": "Episode 010 — Openwave | May 23, 2026 | 6:09 PM PST",
     "edition": "Openwave",
     "datetime": "2026-05-23T18:09:00-07:00",
     "duration": "05:49",
@@ -121,7 +121,7 @@
   {
     "id": "009",
     "episode": "009",
-    "title": "WIRE-38 Episode 009 — Openwave | May 23, 2026 | 7:32 AM PST",
+    "title": "Episode 009 — Openwave | May 23, 2026 | 7:32 AM PST",
     "edition": "Openwave",
     "datetime": "2026-05-23T07:32:00-07:00",
     "duration": "05:21",
@@ -138,7 +138,7 @@
   {
     "id": "008",
     "episode": "008",
-    "title": "WIRE-38 Episode 008 — Evening Transmission | May 22, 2026 | 4:46 PM PST",
+    "title": "Episode 008 — Evening Transmission | May 22, 2026 | 4:46 PM PST",
     "edition": "Evening Edition",
     "datetime": "2026-05-22T16:46:51-07:00",
     "duration": "",
@@ -155,7 +155,7 @@
   {
     "id": "007",
     "episode": "007",
-    "title": "WIRE-38 Episode 007 — Morning Transmission | May 22, 2026 | 6:48 AM PST",
+    "title": "Episode 007 — Morning Transmission | May 22, 2026 | 6:48 AM PST",
     "edition": "Morning Edition",
     "datetime": "2026-05-22T06:48:59-07:00",
     "duration": "",
@@ -172,7 +172,7 @@
   {
     "id": "006",
     "episode": "006",
-    "title": "WIRE-38 Episode 006 — Afternoon Transmission | May 21, 2026 | 4:46 PM PST",
+    "title": "Episode 006 — Afternoon Transmission | May 21, 2026 | 4:46 PM PST",
     "edition": "Afternoon Edition",
     "datetime": "2026-05-21T16:46:06-07:00",
     "duration": "06:56",
@@ -189,7 +189,7 @@
   {
     "id": "005",
     "episode": "005",
-    "title": "WIRE-38 Morning Transmission - Episode 005",
+    "title": "Morning Transmission - Episode 005",
     "edition": "Morning Edition",
     "datetime": "2026-05-21T06:39:40-07:00",
     "duration": "08:42",
@@ -206,7 +206,7 @@
   {
     "id": "004",
     "episode": "004",
-    "title": "WIRE-38 Evening Transmission - Episode 004",
+    "title": "Evening Transmission - Episode 004",
     "edition": "Evening Edition",
     "datetime": "2026-05-20T17:09:07-07:00",
     "duration": "06:48",
@@ -223,7 +223,7 @@
   {
     "id": "003",
     "episode": "003",
-    "title": "WIRE-38 Morning Transmission - Episode 003",
+    "title": "Morning Transmission - Episode 003",
     "edition": "Morning Edition",
     "datetime": "2026-05-20T06:42:23-07:00",
     "duration": "07:31",
@@ -240,7 +240,7 @@
   {
     "id": "002",
     "episode": "002",
-    "title": "WIRE-38 Afternoon Transmission - Episode 002",
+    "title": "Afternoon Transmission - Episode 002",
     "edition": "Afternoon Edition",
     "datetime": "2026-05-19T16:56:14-07:00",
     "duration": "05:17",
@@ -257,7 +257,7 @@
   {
     "id": "001",
     "episode": "001",
-    "title": "WIRE-38 Morning Transmission - Episode 001",
+    "title": "Morning Transmission - Episode 001",
     "edition": "Morning Edition",
     "datetime": "2026-05-19T06:23:42-07:00",
     "duration": "03:07",
