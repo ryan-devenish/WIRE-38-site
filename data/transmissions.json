@@ -1,5 +1,22 @@
 [
   {
+    "id": "024",
+    "episode": "024",
+    "title": "Episode 024 — Openwave | May 30, 2026 | 5:01 PM PST",
+    "edition": "Evening Edition",
+    "datetime": "2026-05-30T17:01:49-07:00",
+    "duration": "",
+    "topStory": "Openwave transmission.",
+    "description": "WIRE-38 Openwave — Episode 024.\n\nThe weekend transmission service. Space weather. Infrastructure. Archive culture. Signal monitoring. Community reports from the margins of public attention.\n\nThis transmission includes:\n• Space Weather & Atmosphere\n• Infrastructure & Systems\n• Archive & Preservation\n• Signal Monitoring\n• Radio & Shortwave Culture\n• Interest piece: A decade-old envelope containing gravitational measurement data has resurfaced, prompting renewed public discussion about potential anomalies in gravitational theory.\n\nTransmitted at:\n5:01 PM PST\nMay 30, 2026\n\nSignals continue across the Openwave.\n\n—\n\nW.I.R.E. Thirty-Eight is a generated longwave broadcast experiment. Bulletin, narration, music, and imagery are produced synthetically for this transmission.\n\n#WIRE38 #Openwave #RadioBulletin #Shortwave #WeekendTransmission #AtmosphericScience #RadioAstronomy #AnalogBroadcast",
+    "youtubeUrl": "https://www.youtube.com/watch?v=hRAlvhba1pU",
+    "youtubeEmbedUrl": "https://www.youtube.com/embed/hRAlvhba1pU",
+    "transcriptPath": "generated/episode_024/bulletin_20260530_170149.txt",
+    "transcriptUrl": "",
+    "thumbnailUrl": "",
+    "sourceTranscriptFile": "bulletin_20260530_170149.txt",
+    "createdAt": "2026-05-30T17:02:29-07:00"
+  },
+  {
     "id": "023",
     "episode": "023",
     "title": "Episode 023 — Openwave | May 30, 2026 | 7:42 AM PST",
