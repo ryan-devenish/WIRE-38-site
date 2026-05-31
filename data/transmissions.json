@@ -1,5 +1,22 @@
 [
   {
+    "id": "025",
+    "episode": "025",
+    "title": "Episode 025 — Openwave | May 31, 2026 | 7:27 AM PST",
+    "edition": "Morning Edition",
+    "datetime": "2026-05-31T07:27:14-07:00",
+    "duration": "",
+    "topStory": "Openwave transmission.",
+    "description": "WIRE-38 Openwave — Episode 025.\n\nThe weekend transmission service. Space weather. Infrastructure. Archive culture. Signal monitoring. Community reports from the margins of public attention.\n\nThis transmission includes:\n• Space Weather & Atmosphere\n• Infrastructure & Systems\n• Astronomical Observations\n• Cybersecurity & Network Operations\n• Radio & Shortwave Culture\n• Interest piece: The Hubble Space Telescope's 2026 imaging of the low surface brightness dwarf irregular galaxy ESO 490-017 highlights observational challenges due to its diffuse star field and foreground stellar interference.\n\nTransmitted at:\n7:27 AM PST\nMay 31, 2026\n\nSignals continue across the Openwave.\n\n—\n\nW.I.R.E. Thirty-Eight is a generated longwave broadcast experiment. Bulletin, narration, music, and imagery are produced synthetically for this transmission.\n\n#WIRE38 #Openwave #RadioBulletin #Shortwave #WeekendTransmission #SpaceWeather #GeomagneticStorm #SignalMonitoring",
+    "youtubeUrl": "https://www.youtube.com/watch?v=nw5SaythVtk",
+    "youtubeEmbedUrl": "https://www.youtube.com/embed/nw5SaythVtk",
+    "transcriptPath": "generated/episode_025/bulletin_20260531_072714.txt",
+    "transcriptUrl": "",
+    "thumbnailUrl": "",
+    "sourceTranscriptFile": "bulletin_20260531_072714.txt",
+    "createdAt": "2026-05-31T07:27:51-07:00"
+  },
+  {
     "id": "024",
     "episode": "024",
     "title": "Episode 024 — Openwave | May 30, 2026 | 5:01 PM PST",
