@@ -1,5 +1,65 @@
 [
   {
+    "id": "openwave-weekend-service",
+    "datetime": "2026-05-30T17:20:00-07:00",
+    "title": "Weekend Relay",
+    "message": "The OpenWave circuit entered weekend service with a wider receiving aperture and a longer view across the week's public signals."
+  },
+  {
+    "id": "visual-bed-looping",
+    "datetime": "2026-05-30T17:12:00-07:00",
+    "title": "Visual Carrier",
+    "message": "A reusable visual carrier was brought online for weekend transmissions, reducing load on the imaging apparatus while preserving the filtered station picture."
+  },
+  {
+    "id": "shortwave-signal-index",
+    "datetime": "2026-05-30T16:50:00-07:00",
+    "title": "Shortwave Index",
+    "message": "The short-form signal register was renumbered and brought into closer alignment with the main transmission archive."
+  },
+  {
+    "id": "station-artifact-layer",
+    "datetime": "2026-05-30T16:35:00-07:00",
+    "title": "Room Detail Survey",
+    "message": "Additional station artifacts were cataloged for use across control rooms, relay rooms, window edges, and exterior equipment yards."
+  },
+  {
+    "id": "network-status-closing",
+    "datetime": "2026-05-30T09:20:00-07:00",
+    "title": "Network Status",
+    "message": "The weekday closing circuit was rebalanced toward operational signal observations, reserving the older continuity word for the weekend service."
+  },
+  {
+    "id": "station-audio-library",
+    "datetime": "2026-05-29T22:45:00-07:00",
+    "title": "Station Audio Library",
+    "message": "Repeated service elements began moving into a local review library so the station can rotate familiar announcements without exhausting the line."
+  },
+  {
+    "id": "youtube-relay-automation",
+    "datetime": "2026-05-29T18:10:00-07:00",
+    "title": "External Relay",
+    "message": "The external video relay was tied more directly into the full broadcast cycle, with private holding status preserved before public release."
+  },
+  {
+    "id": "archive-record-hardening",
+    "datetime": "2026-05-28T22:15:00-07:00",
+    "title": "Archive Record",
+    "message": "The transmission ledger was hardened so each published episode could carry its receiving link back into the public archive."
+  },
+  {
+    "id": "thumbnail-crop-room",
+    "datetime": "2026-05-27T21:40:00-07:00",
+    "title": "Receiving Image",
+    "message": "The station image system received a tighter crop and comparison workflow for clearer recognition at small receiving sizes."
+  },
+  {
+    "id": "analytics-receiving-room",
+    "datetime": "2026-05-27T08:30:00-07:00",
+    "title": "Audience Metering",
+    "message": "A private metering feed was connected to the station desk, giving the operators a clearer read on how the signal travels after release."
+  },
+  {
     "id": "background-prompt-detail",
     "datetime": "2026-05-22T09:15:00-07:00",
     "title": "Visual Continuity",
