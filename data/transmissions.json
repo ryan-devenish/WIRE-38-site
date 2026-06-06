@@ -1,5 +1,22 @@
 [
   {
+    "id": "037",
+    "episode": "037",
+    "title": "Episode 037 — Openwave | June 6, 2026 | 7:00 AM PST",
+    "edition": "Morning Edition",
+    "datetime": "2026-06-06T07:00:04-07:00",
+    "duration": "05:22",
+    "topStory": "From the western coast of the United States...",
+    "description": "WIRE-38 Openwave — Episode 037.\n\nThe weekend transmission service. Space weather. Infrastructure. Archive culture. Signal monitoring. Community reports from the margins of public attention.\n\nThis transmission includes:\n• Space Exploration & Technology\n• Infrastructure & Systems\n• Space Weather & Atmospheric Events\n• Signal Monitoring\n• Online Communities\n• Interest piece: The International Space Station experienced a significant air leak classified as a Type A mishap, prompting emergency sheltering and ongoing collaborative repairs without mission disruption.\n\nTransmitted at:\n7:00 AM PST\nJune 6, 2026\n\nSignals continue across the Openwave.\n\n—\n\nW.I.R.E. Thirty-Eight is a generated longwave broadcast experiment. Bulletin, narration, and imagery are produced synthetically for this transmission.\n\n#WIRE38 #Openwave #RadioBulletin #Shortwave #WeekendTransmission #SpaceWeather #GeomagneticStorm #SignalMonitoring",
+    "youtubeUrl": "https://www.youtube.com/watch?v=XIk_ZODEdnk",
+    "youtubeEmbedUrl": "https://www.youtube.com/embed/XIk_ZODEdnk",
+    "transcriptPath": "generated/episode_037/bulletin_20260606_070004.txt",
+    "transcriptUrl": "",
+    "thumbnailUrl": "https://i.ytimg.com/vi/XIk_ZODEdnk/maxresdefault.jpg",
+    "sourceTranscriptFile": "bulletin_20260606_070004.txt",
+    "createdAt": "2026-06-06T07:00:50-07:00"
+  },
+  {
     "id": "036",
     "episode": "036",
     "title": "Episode 036 — Evening Transmission | June 5, 2026 | 5:00 PM PST",
