@@ -1,5 +1,22 @@
 [
   {
+    "id": "036",
+    "episode": "036",
+    "title": "Episode 036 — Evening Transmission | June 5, 2026 | 5:00 PM PST",
+    "edition": "Evening Edition",
+    "datetime": "2026-06-05T17:00:15-07:00",
+    "duration": "03:50",
+    "topStory": "The ongoing diplomatic deadlock between Russia and Ukraine continues as President Putin’s refusal to meet President Zelenskyy underscores stalled communication.",
+    "description": "Good evening.\n\nThe Longwave Service presents WIRE-38 Episode 036 — a continuous transmission of reports received, monitored, and evaluated during the current broadcast period.\n\nThis evening's transmission includes:\n• International Affairs\n• Humanitarian Issues\n• Science & Technology\n• Public Safety\n• Weather Outlook\n• Signals Under Observation: The ongoing diplomatic deadlock between Russia and Ukraine continues as President Putin’s refusal to meet President Zelenskyy underscores stalled communication.\n\nBroadcast generated at:\n5:00 PM PST\nJune 5, 2026\n\nTomorrow, broadcast yesterday.\n\n—\n\nW.I.R.E. Thirty-Eight is a generated longwave broadcast experiment. Bulletin, narration, and imagery are produced synthetically for this transmission.\n\n#WIRE38 #LongwaveService #NumbersStation #Shortwave #VintageRadio #ColdWarBroadcast #DistantSignal #LateNightRadio",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Xid6pw5DvGQ",
+    "youtubeEmbedUrl": "https://www.youtube.com/embed/Xid6pw5DvGQ",
+    "transcriptPath": "generated/episode_036/bulletin_20260605_170015.txt",
+    "transcriptUrl": "",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Xid6pw5DvGQ/maxresdefault.jpg",
+    "sourceTranscriptFile": "bulletin_20260605_170015.txt",
+    "createdAt": "2026-06-05T17:00:48-07:00"
+  },
+  {
     "id": "035",
     "episode": "035",
     "title": "Episode 035 — Morning Transmission | June 5, 2026 | 7:00 AM PST",
