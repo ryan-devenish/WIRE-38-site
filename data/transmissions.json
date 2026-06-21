@@ -1,5 +1,22 @@
 [
   {
+    "id": "067",
+    "episode": "067",
+    "title": "Episode 067 — Openwave | June 21, 2026 | 7:00 AM PST",
+    "edition": "Openwave",
+    "datetime": "2026-06-21T07:00:00-07:00",
+    "duration": "",
+    "topStory": "A detailed teardown of a 10Gbit SFP+ network adapter reveals the use of enterprise-grade components in consumer devices, highlighting advancements and challenges in high-speed home networking technology.",
+    "description": "WIRE-38 Openwave — Episode 067.\n\nThe weekend transmission service. Space weather. Infrastructure. Archive culture. Signal monitoring. Community reports from the margins of public attention.\n\nThis transmission includes:\n• Infrastructure & Systems\n• Geopolitical Developments\n• Space Weather & Atmosphere\n• Technology & Innovation\n• Signal Monitoring\n• Interest piece: A detailed teardown of a 10Gbit SFP+ network adapter reveals the use of enterprise-grade components in consumer devices, highlighting advancements and challenges in high-speed home networking technology.\n\nTransmitted at:\n7:00 AM PST\nJune 21, 2026\n\nSignals continue across the Openwave.\n\n—\n\nW.I.R.E. Thirty-Eight is a generated longwave broadcast experiment. Bulletin, narration, and imagery are produced synthetically for this transmission.\n\n#WIRE38 #Openwave #RadioBulletin #Shortwave #WeekendTransmission #AtmosphericScience #RadioAstronomy #AnalogBroadcast",
+    "youtubeUrl": "https://www.youtube.com/watch?v=g5VT1s9Hh-w",
+    "youtubeEmbedUrl": "https://www.youtube.com/embed/g5VT1s9Hh-w",
+    "transcriptPath": "",
+    "transcriptUrl": "",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/g5VT1s9Hh-w/hqdefault.jpg",
+    "sourceTranscriptFile": "",
+    "createdAt": "2026-06-21T15:29:17+00:00"
+  },
+  {
     "id": "066",
     "episode": "066",
     "title": "Episode 066 — Openwave | June 20, 2026 | 5:00 PM PST",
