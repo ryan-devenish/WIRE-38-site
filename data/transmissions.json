@@ -1,5 +1,22 @@
 [
   {
+    "id": "100",
+    "episode": "100",
+    "title": "Episode 100 — Morning Transmission | July 7, 2026 | 7:00 AM PST",
+    "edition": "Morning Edition",
+    "datetime": "2026-07-07T07:00:00-07:00",
+    "duration": "",
+    "topStory": "The dismissal of Prince Harry’s privacy invasion lawsuit against the Daily Mail publisher is under observation following the judge’s decision.",
+    "description": "Good morning.\n\nThe Longwave Service presents WIRE-38 Episode 100 — a continuous transmission of reports received, monitored, and evaluated during the current broadcast period.\n\nThis morning's transmission includes:\n• International Affairs\n• Domestic Politics\n• Human Rights\n• Security and Conflict\n• Weather Outlook\n• Signals Under Observation: The dismissal of Prince Harry’s privacy invasion lawsuit against the Daily Mail publisher is under observation following the judge’s decision.\n\nBroadcast generated at:\n7:00 AM PST\nJuly 7, 2026\n\nTomorrow, broadcast yesterday.\n\n—\n\nW.I.R.E. Thirty-Eight is a generated longwave broadcast experiment. Bulletin, narration, and imagery are produced synthetically for this transmission.\n\n#WIRE38 #LongwaveService #NumbersStation #Shortwave #VintageRadio #MorningTransmission #AnalogAtmosphere #PublicTransmission",
+    "youtubeUrl": "https://www.youtube.com/watch?v=UX3kOPJlbO8",
+    "youtubeEmbedUrl": "https://www.youtube.com/embed/UX3kOPJlbO8",
+    "transcriptPath": "",
+    "transcriptUrl": "",
+    "thumbnailUrl": "https://i2.ytimg.com/vi/UX3kOPJlbO8/hqdefault.jpg",
+    "sourceTranscriptFile": "",
+    "createdAt": "2026-07-07T15:29:14+00:00"
+  },
+  {
     "id": "099",
     "episode": "099",
     "title": "Episode 099 — Evening Transmission | July 6, 2026 | 5:00 PM PST",
