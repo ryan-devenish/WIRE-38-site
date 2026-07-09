@@ -1,5 +1,22 @@
 [
   {
+    "id": "103",
+    "episode": "103",
+    "title": "Transmission - Episode 103",
+    "edition": "Public Bulletin Service",
+    "datetime": "2026-07-09T04:10:43+00:00",
+    "duration": "",
+    "topStory": "Transmission record pending archival summary",
+    "description": "The Longwave Service presents a bulletin of public affairs and world reports.",
+    "youtubeUrl": "https://www.youtube.com/watch?v=QM6gDL4Z48A",
+    "youtubeEmbedUrl": "https://www.youtube.com/embed/QM6gDL4Z48A",
+    "transcriptPath": "",
+    "transcriptUrl": "",
+    "thumbnailUrl": "",
+    "sourceTranscriptFile": "",
+    "createdAt": "2026-07-09T04:10:43+00:00"
+  },
+  {
     "id": "102",
     "episode": "102",
     "title": "Episode 102 — Morning Transmission | July 8, 2026 | 7:00 AM PST",
