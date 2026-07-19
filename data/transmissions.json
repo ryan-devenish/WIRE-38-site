@@ -1,5 +1,22 @@
 [
   {
+    "id": "123",
+    "episode": "123",
+    "title": "Episode 123 — Openwave | July 18, 2026 | 5:00 PM PST",
+    "edition": "Openwave",
+    "datetime": "2026-07-18T17:00:00-07:00",
+    "duration": "",
+    "topStory": "A NASA study highlights the increasing vulnerability of Earth's communications and power infrastructure to solar storms, emphasizing uncertainties in predicting the full range of storm intensities.",
+    "description": "WIRE-38 Openwave — Episode 123.\n\nThe weekend transmission service. Space weather. Infrastructure. Archive culture. Signal monitoring. Community reports from the margins of public attention.\n\nThis transmission includes:\n• Space Weather & Atmosphere\n• Infrastructure & Systems\n• Signal Monitoring\n• Online Communities\n• Geopolitical Conflict\n• Interest piece: A NASA study highlights the increasing vulnerability of Earth's communications and power infrastructure to solar storms, emphasizing uncertainties in predicting the full range of storm intensities.\n\nTransmitted at:\n5:00 PM PST\nJuly 18, 2026\n\nSignals continue across the Openwave.\n\n—\n\nW.I.R.E. Thirty-Eight is a generated longwave broadcast experiment. Bulletin, narration, and imagery are produced synthetically for this transmission.\n\n#WIRE38 #Openwave #RadioBulletin #Shortwave #WeekendTransmission #AtmosphericScience #RadioAstronomy #AnalogBroadcast",
+    "youtubeUrl": "https://www.youtube.com/watch?v=c50-wfirhco",
+    "youtubeEmbedUrl": "https://www.youtube.com/embed/c50-wfirhco",
+    "transcriptPath": "",
+    "transcriptUrl": "",
+    "thumbnailUrl": "https://i4.ytimg.com/vi/c50-wfirhco/hqdefault.jpg",
+    "sourceTranscriptFile": "",
+    "createdAt": "2026-07-19T03:39:58+00:00"
+  },
+  {
     "id": "122",
     "episode": "122",
     "title": "Episode 122 — Openwave | July 18, 2026 | 7:00 AM PST",
